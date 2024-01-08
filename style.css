@@ -1,0 +1,36 @@
+body {
+    background-color: #f6e3ce;
+}
+
+h1.Titulo {
+    color: brown;
+}
+
+p.Carta {
+    color: blueviolet;
+        position: relative;
+        top: 70px;
+}
+
+u.Carta {
+    color: blueviolet;
+}
+
+img.Cartita {
+    position: relative;
+    left: 60px;
+    top: -20px;
+}
+
+a.Cafe {
+    
+    position: relative;
+    left: 100px;
+    top: 80px;
+}
+
+p.Contacto {
+    position: relative;
+    left: 360px;
+    top: 140px;
+}
