@@ -31,6 +31,19 @@ a.Cafe {
 
 p.Contacto {
     position: relative;
-    left: 360px;
+    left: 530px;
     top: 140px;
+}
+
+img.Cafe {
+    position: relative;
+    left: 310px;
+    top: -60px;
+    
+}
+
+img.Contacto {
+    position: relative;
+    left: 440px;
+    top: 10px;
 }
